@@ -10,10 +10,8 @@ AI-based city layout and routing project
 
 | Name | Student ID | Contributions |
 |------|-----------|------|
-| Ubaid Ashraf | 24I-0841 | Challenge 3: Full Genetic Algorithm for ambulance placement. 
-Challenge 4: A* routing with real-time re-routing and graceful unreachable-civilian handling. |
-| Muhammad Shahzaib Khan | 24I-0741 | Challenge 1: CSP with backtracking and forward checking, Primary Hospital identification. 
-Challenge 2: Kruskal MST with forced redundancy between Primary Hospital and Primary Depot. |
+| Ubaid Ashraf | 24I-0841 | Challenge 3: Full Genetic Algorithm for ambulance placement.    Challenge 4: A* routing with real-time re-routing and graceful unreachable-civilian handling. |
+| Muhammad Shahzaib Khan | 24I-0741 | Challenge 1: CSP with backtracking and forward checking, Primary Hospital identification.    Challenge 2: Kruskal MST with forced redundancy between Primary Hospital and Primary Depot. |
 | Mitul Dial | 24I-0791 | Challenge 5: Full ML pipeline — K-Means, synthetic data generation, Decision Tree, graph integration. Pygame UI: Grid rendering, three overlay modes, event log, status bar. |
 
 ---
