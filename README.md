@@ -110,11 +110,6 @@ python main.py
 
 ---
 
-## 📄 Reports
-
-- 📘 [Phase 1 Report](./24I-0741_24I-0841_24I-0791_Phase1-report.pdf)
-- 📗 [Final Report](./24I-0741_24I-0841_24I-0791_FinalReport.pdf)
-
 ---
 
 ## 🏫 Course Info
